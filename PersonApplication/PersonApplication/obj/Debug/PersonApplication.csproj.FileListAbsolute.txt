@@ -1,0 +1,9 @@
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\bin\Debug\PersonApplication.exe.config
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\bin\Debug\PersonApplication.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\bin\Debug\PersonApplication.pdb
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\obj\Debug\PersonApplication.csprojResolveAssemblyReference.cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\obj\Debug\PersonApplication.Properties.Resources.resources
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\obj\Debug\PersonApplication.csproj.GenerateResource.Cache
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\obj\Debug\PersonApplication.exe
+c:\users\zahid_ju\documents\visual studio 2012\Projects\PersonApplication\PersonApplication\obj\Debug\PersonApplication.pdb
+C:\Users\zahid_ju\Documents\Visual Studio 2012\Projects\PersonApplication\PersonApplication\obj\Debug\PersonApplication.PersonAppsForm.resources
